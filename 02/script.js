@@ -19,7 +19,7 @@
 
 // var ->
 // re-declared - yes
-// scope - global
+// scope - function-scope
 // re assigned - yess
 // acess - kahi par bhi acess karo
 // {
@@ -33,7 +33,7 @@
 
 // let ->
 // re-declared - no within same scope
-// scope - local
+// scope - block-scope
 // re assigned - yess
 // acess - sirf usi block ke andar acess karo
 // {
@@ -46,7 +46,7 @@
 
 // const ->
 // re-declared - no within same scope
-// scope - local
+// scope - block-scope
 // re assigned - no
 // acess -  sirf usi block ke andar acess karo
 // {
