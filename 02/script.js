@@ -99,3 +99,9 @@
 // console.log(obj); // { name: 'John', age: 26, city: 'Mumbai' }
 
 
+// Declaration = creating the variable
+// Initialization = giving it its first value
+// Reassignment = changing its value later
+// Redeclaration = declaring the same variable again
+
+
