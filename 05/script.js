@@ -42,14 +42,20 @@ console.log("loops");
 
 // do-while loop 
 
-let ip = 100;
+// let ip = 100;
 
-let house = 100;
-do {
-ip = ip+1;
-console.log("step taken:", ip);
-}
-while(ip <= house)
+// let house = 100;
+// do {
+// ip = ip+1;
+// console.log("step taken:", ip);
+// }
+// while(ip <= house)
+
+
+// for loop (intilization, condition check , increement or decreemnt )
 
 
 
+
+// console.log after for loop ,while loop and for do while loop
+// prints that value that made the condition false that one 
