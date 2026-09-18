@@ -64,6 +64,8 @@ console.log("functions and arrow functions");
 
 // console.log(typeof abc);     // "undefined"  -> safe, no error
 // console.log(typeof abc());   // TypeError: abc is not a function
+// console.log(abc());   // type eror 
+// console.log(abc);   // undefined
 // var abc = function add() {};
 
 // rule:
